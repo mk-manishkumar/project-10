@@ -1,5 +1,5 @@
 
-# Project-8
+# Project-10
 
 This project is a Interior Design Webpage which is created by using HTML and CSS. It's responsive.
 
