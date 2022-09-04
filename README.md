@@ -28,7 +28,7 @@ This project is a Interior Design Webpage which is created by using HTML and CSS
 
 # Netlify Link
 
-[Project - 10](https://project-10-mk.netlify.app/)
+[Project - 10](https://project-mk-10.netlify.app/)
 
 # Thumbnail
 
